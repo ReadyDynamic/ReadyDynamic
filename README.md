@@ -3,7 +3,9 @@ establish a src folder and a data folder, put the source code into the src folde
 
 ## Format file generation
 run main.py in dynamic_info_fix folder to generate analysis-ready dynamic information:
+
  -The input file are the structured file and template file from parsig result
+ 
  -The output files and the pickle files store the intermediate data
 
 ## Label file generation for log parsers
