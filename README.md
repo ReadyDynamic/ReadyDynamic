@@ -1,5 +1,6 @@
 ## Setup
-establish a src folder and a data folder, put the source code into the src folder, and the parsing results into the data folder
+establish a src folder and a data folder, put the source code into the src folder, and the parsing results into the data folder.
+Put your api key in the format_extract.py in dynamic_info_fix/dynamic_format_generation.
 
 ## Format file generation
 run main.py in dynamic_info_fix folder to generate analysis-ready dynamic information:
